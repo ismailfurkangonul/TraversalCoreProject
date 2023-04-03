@@ -1,0 +1,15 @@
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Entity\bin\Debug\net5.0\TraversalCoreProje.Entity.deps.json
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Entity\bin\Debug\net5.0\TraversalCoreProje.Entity.runtimeconfig.json
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Entity\bin\Debug\net5.0\TraversalCoreProje.Entity.runtimeconfig.dev.json
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Entity\bin\Debug\net5.0\TraversalCoreProje.Entity.dll
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Entity\bin\Debug\net5.0\TraversalCoreProje.Entity.pdb
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Entity\obj\Debug\net5.0\TraversalCoreProje.Entity.csproj.AssemblyReference.cache
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Entity\obj\Debug\net5.0\TraversalCoreProje.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Entity\obj\Debug\net5.0\TraversalCoreProje.Entity.AssemblyInfoInputs.cache
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Entity\obj\Debug\net5.0\TraversalCoreProje.Entity.AssemblyInfo.cs
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Entity\obj\Debug\net5.0\TraversalCoreProje.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Entity\obj\Debug\net5.0\TraversalCoreProje.Entity.dll
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Entity\obj\Debug\net5.0\refint\TraversalCoreProje.Entity.dll
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Entity\obj\Debug\net5.0\TraversalCoreProje.Entity.pdb
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Entity\obj\Debug\net5.0\TraversalCoreProje.Entity.genruntimeconfig.cache
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Entity\obj\Debug\net5.0\ref\TraversalCoreProje.Entity.dll

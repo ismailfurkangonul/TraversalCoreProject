@@ -1,0 +1,15 @@
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\bin\Debug\net5.0\TraversalCoreProje.Service.deps.json
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\bin\Debug\net5.0\TraversalCoreProje.Service.runtimeconfig.json
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\bin\Debug\net5.0\TraversalCoreProje.Service.runtimeconfig.dev.json
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\bin\Debug\net5.0\TraversalCoreProje.Service.dll
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\bin\Debug\net5.0\TraversalCoreProje.Service.pdb
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\obj\Debug\net5.0\TraversalCoreProje.Service.csproj.AssemblyReference.cache
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\obj\Debug\net5.0\TraversalCoreProje.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\obj\Debug\net5.0\TraversalCoreProje.Service.AssemblyInfoInputs.cache
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\obj\Debug\net5.0\TraversalCoreProje.Service.AssemblyInfo.cs
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\obj\Debug\net5.0\TraversalCoreProje.Service.csproj.CoreCompileInputs.cache
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\obj\Debug\net5.0\TraversalCoreProje.Service.dll
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\obj\Debug\net5.0\refint\TraversalCoreProje.Service.dll
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\obj\Debug\net5.0\TraversalCoreProje.Service.pdb
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\obj\Debug\net5.0\TraversalCoreProje.Service.genruntimeconfig.cache
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\obj\Debug\net5.0\ref\TraversalCoreProje.Service.dll
