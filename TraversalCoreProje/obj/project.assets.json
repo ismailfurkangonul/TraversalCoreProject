@@ -2399,6 +2399,24 @@
         "runtime": {
           "bin/placeholder/TraversalCoreProje.Entity.dll": {}
         }
+      },
+      "TraversalCoreProje.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "FluentValidation": "11.5.1",
+          "FluentValidation.AspNetCore": "11.3.0",
+          "Microsoft.EntityFrameworkCore": "5.0.12",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.12",
+          "TraversalCoreProje.Data": "1.0.0",
+          "TraversalCoreProje.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TraversalCoreProje.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TraversalCoreProje.Service.dll": {}
+        }
       }
     }
   },
@@ -7596,6 +7614,11 @@
       "type": "project",
       "path": "../TraversalCoreProje.Entity/TraversalCoreProje.Entity.csproj",
       "msbuildProject": "../TraversalCoreProje.Entity/TraversalCoreProje.Entity.csproj"
+    },
+    "TraversalCoreProje.Service/1.0.0": {
+      "type": "project",
+      "path": "../TraversalCoreProje.Service/TraversalCoreProje.Service.csproj",
+      "msbuildProject": "../TraversalCoreProje.Service/TraversalCoreProje.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7607,7 +7630,8 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.12",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.12",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 5.0.2",
-      "TraversalCoreProje.Data >= 1.0.0"
+      "TraversalCoreProje.Data >= 1.0.0",
+      "TraversalCoreProje.Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -7644,6 +7668,9 @@
           "projectReferences": {
             "C:\\Users\\Nani1\\source\\repos\\TraversalCoreProje\\TraversalCoreProje.Data\\TraversalCoreProje.Data.csproj": {
               "projectPath": "C:\\Users\\Nani1\\source\\repos\\TraversalCoreProje\\TraversalCoreProje.Data\\TraversalCoreProje.Data.csproj"
+            },
+            "C:\\Users\\Nani1\\source\\repos\\TraversalCoreProje\\TraversalCoreProje.Service\\TraversalCoreProje.Service.csproj": {
+              "projectPath": "C:\\Users\\Nani1\\source\\repos\\TraversalCoreProje\\TraversalCoreProje.Service\\TraversalCoreProje.Service.csproj"
             }
           }
         }

@@ -22,10 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TraversalCoreProje.Data\TraversalCoreProje.Data.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Views\Shared\Components\_PopularDestination\" />
+    <ProjectReference Include="..\TraversalCoreProje.Service\TraversalCoreProje.Service.csproj" />
   </ItemGroup>
 
 </Project>

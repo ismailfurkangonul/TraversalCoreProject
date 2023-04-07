@@ -13,3 +13,8 @@ C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\obj\De
 C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\obj\Debug\net5.0\TraversalCoreProje.Service.pdb
 C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\obj\Debug\net5.0\TraversalCoreProje.Service.genruntimeconfig.cache
 C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\obj\Debug\net5.0\ref\TraversalCoreProje.Service.dll
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\bin\Debug\net5.0\TraversalCoreProje.Data.dll
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\bin\Debug\net5.0\TraversalCoreProje.Entity.dll
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\bin\Debug\net5.0\TraversalCoreProje.Data.pdb
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\bin\Debug\net5.0\TraversalCoreProje.Entity.pdb
+C:\Users\Nani1\source\repos\TraversalCoreProje\TraversalCoreProje.Service\obj\Debug\net5.0\TraversalCoreProje.Service.csproj.CopyComplete
