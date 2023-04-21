@@ -24,5 +24,7 @@ namespace TraversalCoreProje.Data.Concrete
         public DbSet<NewsLetter> NewsLetters { get; set; }
         public DbSet<SubAbout> SubAbouts { get; set; }
         public DbSet<Testimonial> Testimonials { get; set; }
+        public DbSet<Comment> Comments { get; set; }
+
     }
 }
